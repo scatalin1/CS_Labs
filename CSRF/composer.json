@@ -1,0 +1,8 @@
+{
+    "require": {
+        "slim/slim": "^4.6",
+        "slim/twig-view": "^3.1",
+        "slim/psr7": "^1.2",
+        "slim/csrf": "^1.0"
+    }
+}
